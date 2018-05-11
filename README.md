@@ -15,6 +15,6 @@ Get started with searx by using one of the public instances. If you don’t trus
 * Cookies are not used by default
 * Secure, encrypted connections (HTTPS/SSL)
 * Hosted by organisations, such as La Quadrature du Net, which promote digital rights
-
-#### Youtube Channel: https://youtube.com/c/cTheShadowBrokers
-#### Website: https://asciimoo.github.io/searx/
+---
+#### [Youtube Channel](https://youtube.com/c/cTheShadowBrokers)
+#### [Website](https://asciimoo.github.io/searx/)
