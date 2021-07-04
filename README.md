@@ -12,7 +12,7 @@
                   ``-------''
 
 ## SearX_easy_Installer
-#### Search without being tracked-(Your Own Private Search Engine ) 💀
+#### Search without being tracked-(Your Own Private Search Engine )
 
 Search without being tracked.
 Searx is a free internet metasearch engine which aggregates results from more than 70 search services. Users are neither tracked nor profiled. Additionally, searx can be used over Tor for online anonymity.
