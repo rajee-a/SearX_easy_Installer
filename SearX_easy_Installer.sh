@@ -1,7 +1,5 @@
 #!/bin/bash
-cat << "EOF"
-    
-                                                       
+cat << "EOF"                                               
                                                        
   .--.--.                                              
  /  /    '.                                            
