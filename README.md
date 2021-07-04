@@ -30,4 +30,4 @@ Get started with searx by using one of the public instances. If you don’t trus
 * Hosted by organisations, such as La Quadrature du Net, which promote digital rights
 ---
 
-#### [Official Website]:(https://searx.github.io/searx/)
+#### [Official Website :](https://searx.github.io/searx/)
